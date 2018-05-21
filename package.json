@@ -1,0 +1,22 @@
+{
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flamingo Galaxy",
+        "path": "./themes/flamingo-galaxy.json",
+        "uiTheme": "vs-dark"
+      }
+    ]
+  },
+  "description": "Flamingo Galaxy color theme inspired by jglovier/galaxy-theme-iterm",
+  "displayName": "Flamingo Galaxy",
+  "engines": {
+    "vscode": "^1.23.0"
+  },
+  "name": "flamingo-galaxy",
+  "publisher": "oleblaesing",
+  "version": "0.0.1"
+}
