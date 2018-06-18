@@ -119,6 +119,8 @@
     {
       "name": "Strings",
       "scope": [
+        "punctuation.definition.string.begin",
+        "punctuation.definition.string.end",
         "string"
       ],
       "settings": {
