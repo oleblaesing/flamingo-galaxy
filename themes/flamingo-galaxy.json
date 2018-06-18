@@ -128,6 +128,15 @@
       }
     },
     {
+      "name": "Tags",
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#fda0a0"
+      }
+    },
+    {
       "name": "Types",
       "scope": [
         "support.type"
