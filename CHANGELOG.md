@@ -1,6 +1,7 @@
 # Changelog
 
 ## [0.0.2] - 06/18/2018
+- Create logo
 - Reducing the amount of yellow in XML files
 - String quotes are now using the same color
 

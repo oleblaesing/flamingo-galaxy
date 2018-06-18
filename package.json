@@ -23,7 +23,8 @@
     "color": "#ee70a9",
     "theme": "dark"
   },
-  "homepage": "https://github.com/oleblaesing/flamingo-galaxy",
+  "homepage": "https://marketplace.visualstudio.com/items?itemName=oleblaesing.flamingo-galaxy",
+  "icon": "logo.png",
   "license": "MIT",
   "name": "flamingo-galaxy",
   "publisher": "oleblaesing",
