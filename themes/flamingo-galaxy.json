@@ -70,7 +70,9 @@
     {
       "name": "Constants",
       "scope": [
-        "constant"
+        "constant",
+        "entity.name.tag.js.jsx",
+        "support.class.component.js.jsx"
       ],
       "settings": {
         "foreground": "#fda0a0"
